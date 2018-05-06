@@ -1,7 +1,9 @@
 # PDF designer
 
 This utility allows to create PDF documents, open and save PDF layouts (ddx files), save layouts as Clarion source code.  
-Press Help button to read User's manual.
+
+- bin\doc\um.pdf file contains the documentation
+- bin\samples subfolder contains some sample layouts, wich you can load into the designer and inspect
 
 ## Features
 - line-wrapping,
@@ -24,10 +26,10 @@ Press Help button to read User's manual.
 
 ## Credits
 - The utility was created in Clarion 10
-- [EasyXML] (http://www.ingasoftplus.com/ProductDetail.php?ProductID=293)
-- [PdfMake] (http://pdfmake.org)
-- [EasyHTML] (http://www.ingasoftplus.com/ProductDetail.php?ProductID=300)
-- [EasyPDFMaker] (http://www.ingasoftplus.com/ProductDetail.php?ProductID=302)
+- [EasyXML](http://www.ingasoftplus.com/ProductDetail.php?ProductID=293)
+- [PdfMake](http://pdfmake.org)
+- [EasyHTML](http://www.ingasoftplus.com/ProductDetail.php?ProductID=300)
+- [EasyPDFMaker](http://www.ingasoftplus.com/ProductDetail.php?ProductID=302)
 
 ### Contacts
 - <mikeduglas@yandex.ru>
