@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  PDF layout for EasyPDFMaker.
+  File name:		D:\development\apps\PDFEditor\samples\test.ddx
+  Creation date:	2018-05-06 21:53:32
+  Author:		Mike Duglas
+  Support:		mikeduglas@yandex.ru
+-->
+<!--Document definition object:-->
+<dd>
+	<globals _level_="1" _iscontainer_="1" pageSize="A4" pageOrientation="portrait"></globals>
+	<styles _level_="1" _iscontainer_="1"></styles>
+	<content _level_="1" _iscontainer_="1"></content>
+	<text _level_="2" _iscontainer_="0">Hello world!</text>
+	<text _level_="2" _iscontainer_="0">Hello world!</text>
+	<endcontent _level_="1" _iscontainer_="0"></endcontent>
+</dd>
